@@ -2,6 +2,7 @@
 A collection of talks
 
 ## 2026
+* UI5con 2026 - UI5 Tools Update 2026 [slides](./2026/UI5con2026_UI5Tools.pdf) | [recording](https://www.youtube.com/live/CMPudw4scSE?si=iS4802zM21C-4BWh&t=3470)
 * TAIEFY 2026 - From Prompt to Production [slides](./2026/Taiefy2026_FromPromptToProduction.pdf) | [recording](https://www.youtube.com/live/aP2Xk6Wk60g?si=06iCQN9fapwqpuJL&t=16191)
 
 ## 2025
