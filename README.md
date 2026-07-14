@@ -8,5 +8,8 @@ A collection of talks
 ## 2025
 * UI5con 2025 - UI5 Tools Update 2025 [slides](./2025/UI5con2025_UI5Tools.pdf) | [recording](https://www.youtube.com/live/0D0_M4RDiZY?si=_JxC4AcqUhxsXziN&t=3629)
 
+## 2023
+* UI5con 2023 - How we replaced our legacy build infrastructure with UI5 Tooling [slides](2023/UI5con2023_BuildInfrastructure.pdf) | [recording](https://www.youtube.com/watch?t=10992&v=aCyMC27ED80)
+
 ## 2020
 * UI5con 2020 - UI5 Routing with Reusable Components [slides](./2020/UI5con2020_RoutingReusableComponents.pdf) | [recording](https://www.youtube.com/watch?v=Cs84OzT7xrw)
