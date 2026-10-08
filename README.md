@@ -2,7 +2,7 @@
 A collection of talks
 
 ## 2026
-* UI5ers live #62 - UI5 Plugins for Coding Agents [slides](./2026/2026_10_UI5erslive_UI5PluginsForCodingAgents.pdf) | [recording](https://www.youtube.com/watch?v=tWZc_2jkWl4)
+* UI5ers live #62 - UI5 Plugins for Coding Agents [slides](./2026/UI5erslive62_UI5PluginsForCodingAgents.pdf) | [recording](https://www.youtube.com/watch?v=tWZc_2jkWl4)
 * Devtoberfest 2026 by SAP TechEd - Beyond Copilots: Agentic Development with SAPUI5 [slides](./2026/Devtoberfest2026_BeyondCopilots.pdf) | [recording](https://www.youtube.com/live/Rt6wxsCOjvY)
 * UI5con 2026 - UI5 Tools Update 2026 [slides](./2026/UI5con2026_UI5Tools.pdf) | [recording](https://youtu.be/tN2BKqhGK6E)
 * TAIEFY 2026 - From Prompt to Production [slides](./2026/Taiefy2026_FromPromptToProduction.pdf) | [recording](https://www.youtube.com/live/aP2Xk6Wk60g?si=06iCQN9fapwqpuJL&t=16191)
